@@ -1,0 +1,20 @@
+*{
+    background-color: lightsalmon;
+}
+
+h1{
+    text-align: center;
+    /* justify-content: center; */
+    margin-top: 80px;
+}
+.keypad{
+    text-align: center;
+    /* margin-top: -10px; */
+
+}
+.counter{
+    font-size: 40px;
+}
+.container{
+    text-align: center;
+}
